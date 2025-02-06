@@ -54,4 +54,4 @@ Employee attrition is a major concern for organizations. Understanding the key f
 ✅ Offer competitive salaries in high-attrition salary brackets.  
 ✅ Address job satisfaction concerns through targeted HR interventions.  
 
- 
+ ![Image](https://github.com/user-attachments/assets/d3826f8d-bc79-49e5-ba8e-d599b98b9ac1)
